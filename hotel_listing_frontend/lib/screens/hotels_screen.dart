@@ -68,7 +68,7 @@ class _HotelsScreenState extends State<HotelsScreen> {
         switch (filter) {
           case 'High Rating':
             return hotel.rating >= 4.5;
-          case 'Under $250':
+          case 'Under \$250':
             return hotel.price < 250;
           case 'Pool':
             return hotel.amenities.contains('Pool');
