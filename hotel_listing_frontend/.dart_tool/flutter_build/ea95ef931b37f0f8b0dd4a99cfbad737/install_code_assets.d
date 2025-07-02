@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/hotelexplorer-118158-118167/hotel_listing_frontend/.dart_tool/flutter_build/ea95ef931b37f0f8b0dd4a99cfbad737/native_assets.json: 
